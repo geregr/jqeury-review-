@@ -34,3 +34,5 @@ $("#lol").css("width", width + "px")
 $("#lol").css("height", height + "px")
 
 })
+
+console.log("hi")
