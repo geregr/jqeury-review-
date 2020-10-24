@@ -1,4 +1,4 @@
-$("#lol").css("background-color","black")
+$("#lol").css("background-color","green")
 
 $("#red").click(()=>{
     $("#lol").css("background-color","red")
