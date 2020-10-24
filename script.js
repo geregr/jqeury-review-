@@ -35,4 +35,4 @@ $("#lol").css("height", height + "px")
 
 })
 
-console.log("hi yee ha")
+console.log("hi yee ha ok")
